@@ -4,6 +4,7 @@ An application to monitor any generic device, it counts all the received message
 The project is written in c++, and it uses "shared_ptr" object to avoid manual deallocation so it's done automatically.
 
 
+<hr>
 The application is structured in the following manner:
 - DeviceManager.cpp
 

@@ -1,6 +1,6 @@
 # devicesManager
 An application to monitor any generic device, it counts all the received messages from connected devices and print the number upon finish.
-
+The project is written in c++, and it uses "shared_ptr" object to avoid manual deallocation so it's done automatically.
 
 
 The application is structured in the following manner:
@@ -27,7 +27,7 @@ To compile the project type:
 make
 </pre>
 
-and the simply run it:
+and then simply run it:
 <pre>
   dist/devicesmonitor
 </pre>
